@@ -1,1 +1,0 @@
-# BSIT-2B-GR-ACADJJ

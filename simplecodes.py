@@ -4,3 +4,4 @@ name = input("What is your name? ")
 
 print("Hello, " + name + "! Mabuhay.")
 print("Hello, " + name + "! Magandang Araw.")
+print("Hello, " + name + "! Good bless you.")
